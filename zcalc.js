@@ -32,7 +32,7 @@ export const SEX_GIRLS = 'girls';
 // or on Cloudflare R2, Google Cloud Storage, AWS S3, etc.).
 // Replace 'YOUR_GITHUB_USERNAME/YOUR_REPO_NAME' with the actual path to your 'tables' directory.
 // For example: 'https://cdn.jsdelivr.net/gh/who/child-growth-standards/tables/'
-const BASE_TABLES_URL = 'https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tables/';
+const BASE_TABLES_URL = 'https://cdn.jsdelivr.net/gh/lvl1scans/jsgrowup/tables/';
 
 // OBSERVATION CLASS
 export class Observation {
